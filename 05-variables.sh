@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "Please enter username: "
-read USERNAME  #here USERNAME is a variable
+read  -s USERNAME  #here USERNAME is a variable, to make username invisible use -s
 echo "please enter password: "
-read PASSWORD #here PASSWORD is a variable
+read -s PASSWORD #here PASSWORD is a variable
 
 echo "username is : $USERNAME, password is : $PASSWORD"
 
