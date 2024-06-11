@@ -1,7 +1,7 @@
 
 # shell script
 
-** Steps: **
+**Steps:**
 
 * Create repo in github
 * Clone repo in local laptop
@@ -21,7 +21,8 @@ git commit -m "comments"
 git push -u origin main
 ```
 
-** Naming Convention for folders in vs code: **
+**Naming Convention for folders in vs code:**
+
 use lowercase with hyphens, No spaces
 
 ```
