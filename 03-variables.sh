@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Declaration of variables
+# Declaration of variable
 PERSON1=Ramesh
 PERSON2=Chandana
 
